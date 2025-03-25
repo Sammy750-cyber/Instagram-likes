@@ -31,8 +31,8 @@ This project is a Python-based application that helps manage Instagram likes.
 
 ## Screenshots
 
-![Screenshot](path/to/image1.png)
-![Screenshot](path/to/image2.png)
+![Screenshot](Screenshot_20250325-153748.png)
+![Screenshot](Screenshot_20250325-153833.png)
 
 ## Contributing
 
