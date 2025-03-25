@@ -58,8 +58,8 @@ if user_input == "1" or user_input == "01" or user_input == "a" or user_input ==
     print(f"{color.BOLD}{color.BLUE}==============================================={color.END}")
     print(res['message'])
 elif user_input == "2" or user_input == "02" or user_input == "b" or user_input == "B":
-    os.system("xdg-open https://sammy750-cyber")
+    os.system("xdg-open https://t.me/+X4IQQe35aZI0Yzg8")
 elif user_input == "3" or user_input == "03" or user_input == "c" or user_input == "C":
-    os.system("xdg-open https://sammy750-cyber")
+    os.system("xdg-open https://t.me/redwaren5")
 elif user_input == "4" or user_input == "04" or user_input == "d" or user_input == "D":
     sys.exit()
