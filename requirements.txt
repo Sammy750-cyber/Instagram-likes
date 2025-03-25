@@ -1,0 +1,4 @@
+pkg update && pkg upgrade
+pkg install pip3
+pip3 install getuseragent
+pip3 install requests
