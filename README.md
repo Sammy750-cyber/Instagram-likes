@@ -54,3 +54,7 @@ This project is a Python-based application that helps manage Instagram likes.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+# If you enjoyed using this tool pls follow and give a star 🌟
+
+## Thank you....
